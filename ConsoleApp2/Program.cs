@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world! Branch1");
+            Console.WriteLine("Hello, world! Master");
             Console.ReadLine();
         }
     }
